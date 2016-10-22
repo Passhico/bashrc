@@ -1,0 +1,6 @@
+alias c='cmatrix -f -C red -s'
+alias b='byobu'
+alias cc='./console'
+alias ip='wget http://ipinfo.io/ip -qO -'
+alias t='tree -L 2'
+alias tt='tree -L 3'
